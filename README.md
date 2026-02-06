@@ -10,7 +10,7 @@ da Fundação Bradesco – Escola Virtual.
 - Interface gráfica
 - Armazenamento em arquivo
 
-## 🛠 Tecnologias
+## Tecnologias
 - Python
 - Kivy
 
